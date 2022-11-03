@@ -19,9 +19,13 @@ go run main.go
 ### ToDos
 
 - [ ] Better Database integration
-- [ ] Migrate to Go modules (better folder structure)
+- [ ] Migrate to Go modules (better folder structure)?
 - [ ] Fix .env setup
 - [ ] Use Postgres and ORM
 - [ ] Authentication
 - [ ] DDD Pattern
 - [ ] Logging
+
+### Useful links
+
+- https://github.com/bxcodec/go-clean-arch

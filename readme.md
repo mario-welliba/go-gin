@@ -21,6 +21,7 @@ go run main.go
 - [ ] Better Database integration
 - [ ] Migrate to Go modules (better folder structure)
 - [ ] Fix .env setup
+- [ ] Use Postgres and ORM
 - [ ] Authentication
 - [ ] DDD Pattern
 - [ ] Logging
